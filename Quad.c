@@ -1,11 +1,7 @@
 /**
- * CSC A48 - Intro to Computer Science II, Summer 2020
  * 
- * This is the program file where you will implement your solution for
- * assignment 2. Please make sure you read through this file carefully
+ * This is the program file where you will implement your solution for. Please make sure you read through this file carefully
  * and that you understand what is provided and what you need to complete.
- * 
- * You will need to have read the handout carefully. 
  * 
  * Parts where you have to implement functionality are clearly labeled TODO
  * 
